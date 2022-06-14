@@ -14,13 +14,13 @@ We proposed the feature based gaze estimation method using 50 landmarks. We used
 We evaluated gaze estimation and landmarks detection performance on UnityEyes and MPIIGaze.  
 
 - The Landmarks Detection Performance.
-<p align="center"><img src="images/nme_stat.jpg" alt="ENAS_rnn" width="60%"></p>  
+<p align="center"><img src="images/nme_stat.jpg" alt="ENAS_rnn" width="100%"></p>  
 
 - The Gaze Estimation Performance.
-<p align="center"><img src="images/gaze_stat.jpg" alt="ENAS_rnn" width="60%"></p>  
+<p align="center"><img src="images/gaze_stat.jpg" alt="ENAS_rnn" width="100%"></p>  
 
 - The Outputs on UnityEyes and MPIIGaze (Green : ground-truth , Yellow : predicted)
-<p align="center"><img src="images/output.jpg" alt="ENAS_rnn" width="60%"></p>
+<p align="center"><img src="images/output.jpg" alt="ENAS_rnn" width="100%"></p>
 
 
 ## Quick Start  
