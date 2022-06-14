@@ -1,0 +1,3 @@
+python preprocessing_data.py --dataset C:\Users\OJK\Task\Gaze_Estimation\input\MPIIGaze --outdir C:\Users\OJK\Task\Gaze_Estimation\input\MPIIGaze\train
+
+

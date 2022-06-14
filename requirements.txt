@@ -1,0 +1,8 @@
+hdf5storage
+yacs
+tensorboardx
+opencv-python
+cycler
+scipy
+matplotlib
+torchsummary
